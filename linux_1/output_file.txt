@@ -1,0 +1,381 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  26772 17380 ?        Ss   09:00   0:03 /usr/lib/systemd/systemd --switched-root --system --deserialize=52 splash
+root           2  0.0  0.0      0     0 ?        S    09:00   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    09:00   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/0:0H-kblockd]
+root          13  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    09:00   0:12 [rcu_preempt]
+root          16  0.0  0.0      0     0 ?        S    09:00   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17  0.0  0.0      0     0 ?        S    09:00   0:00 [rcu_exp_gp_kthread_worker]
+root          18  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    09:00   0:00 [kprobe-optimizer]
+root          20  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/0]
+root          21  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/0]
+root          22  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/2]
+root          23  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/2]
+root          24  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/2]
+root          25  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/2]
+root          27  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/2:0H-kblockd]
+root          28  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/4]
+root          29  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/4]
+root          30  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/4]
+root          31  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/4]
+root          33  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/4:0H-kblockd]
+root          34  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/6]
+root          35  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/6]
+root          36  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/6]
+root          37  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/6]
+root          39  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/6:0H-kblockd]
+root          40  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/8]
+root          41  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/8]
+root          42  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/8]
+root          43  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/8]
+root          45  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/8:0H-kblockd]
+root          46  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/10]
+root          47  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/10]
+root          48  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/10]
+root          49  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/10]
+root          51  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/10:0H-kblockd]
+root          52  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/12]
+root          53  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/12]
+root          54  0.0  0.0      0     0 ?        S    09:00   0:02 [migration/12]
+root          55  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/12]
+root          57  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/12:0H-kblockd]
+root          58  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/13]
+root          59  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/13]
+root          60  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/13]
+root          61  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/13]
+root          63  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/13:0H-kblockd]
+root          64  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/14]
+root          65  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/14]
+root          66  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/14]
+root          67  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/14]
+root          69  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/14:0H-kblockd]
+root          70  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/15]
+root          71  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/15]
+root          72  0.0  0.0      0     0 ?        S    09:00   0:01 [migration/15]
+root          73  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/15]
+root          75  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/15:0H-kblockd]
+root          76  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/1]
+root          77  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/1]
+root          78  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/1]
+root          79  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/1]
+root          81  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/1:0H-kblockd]
+root          82  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/3]
+root          83  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/3]
+root          84  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/3]
+root          85  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/3]
+root          87  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/3:0H]
+root          88  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/5]
+root          89  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/5]
+root          90  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/5]
+root          91  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/5]
+root          93  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/5:0H-kblockd]
+root          94  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/7]
+root          95  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/7]
+root          96  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/7]
+root          97  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/7]
+root          99  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/7:0H-kblockd]
+root         100  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/9]
+root         101  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/9]
+root         102  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/9]
+root         103  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/9]
+root         105  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/9:0H-kblockd]
+root         106  0.0  0.0      0     0 ?        S    09:00   0:00 [cpuhp/11]
+root         107  0.0  0.0      0     0 ?        S    09:00   0:00 [idle_inject/11]
+root         108  0.0  0.0      0     0 ?        S    09:00   0:00 [migration/11]
+root         109  0.0  0.0      0     0 ?        S    09:00   0:00 [ksoftirqd/11]
+root         111  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/11:0H-kblockd]
+root         112  0.0  0.0      0     0 ?        S    09:00   0:00 [kdevtmpfs]
+root         113  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-inet_frag_wq]
+root         114  0.0  0.0      0     0 ?        I    09:00   0:00 [rcu_tasks_kthread]
+root         115  0.0  0.0      0     0 ?        I    09:00   0:00 [rcu_tasks_rude_kthread]
+root         116  0.0  0.0      0     0 ?        S    09:00   0:00 [kauditd]
+root         117  0.0  0.0      0     0 ?        S    09:00   0:00 [khungtaskd]
+root         118  0.0  0.0      0     0 ?        S    09:00   0:00 [oom_reaper]
+root         121  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-writeback]
+root         122  0.0  0.0      0     0 ?        S    09:00   0:02 [kcompactd0]
+root         123  0.0  0.0      0     0 ?        SN   09:00   0:00 [ksmd]
+root         124  0.0  0.0      0     0 ?        SN   09:00   0:00 [khugepaged]
+root         125  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-kblockd]
+root         126  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-blkcg_punt_bio]
+root         127  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-kintegrityd]
+root         129  0.0  0.0      0     0 ?        S    09:00   0:00 [irq/9-acpi]
+root         132  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-tpm_dev_wq]
+root         133  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-ata_sff]
+root         134  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-md_bitmap]
+root         135  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-md_llbitmap_io]
+root         136  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-md_llbitmap_unplug]
+root         137  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-edac-poller]
+root         138  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-devfreq_wq]
+root         139  0.0  0.0      0     0 ?        S    09:00   0:00 [watchdogd]
+root         141  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-quota_events_unbound]
+root         143  0.0  0.0      0     0 ?        S    09:00   0:00 [kswapd0]
+root         144  0.0  0.0      0     0 ?        S    09:00   0:00 [ecryptfs-kthread]
+root         145  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-kthrotld]
+root         146  0.0  0.0      0     0 ?        S    09:00   0:00 [irq/123-aerdrv]
+root         147  0.0  0.0      0     0 ?        S    09:00   0:00 [irq/124-aerdrv]
+root         150  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-acpi_thermal_pm]
+root         153  0.0  0.0      0     0 ?        S    09:00   0:00 [hwrng]
+root         154  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-hfi-updates]
+root         155  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-mld]
+root         156  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-ipv6_addrconf]
+root         157  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-kstrp]
+root         163  0.0  0.0      0     0 ?        I    09:00   0:00 [kworker/9:1-mm_percpu_wq]
+root         165  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/u65:0-hci0]
+root         177  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-charger_manager]
+root         346  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-uas]
+root         349  0.0  0.0      0     0 ?        S    09:00   0:00 [scsi_eh_0]
+root         350  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-scsi_tmf_0]
+root         410  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-nvme-wq]
+root         411  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-nvme-reset-wq]
+root         412  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-nvme-delete-wq]
+root         413  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-nvme-auth-wq]
+root         414  0.0  0.0      0     0 ?        S    09:00   0:01 [irq/81-FTCS1000:01]
+root         429  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/6:1H-kblockd]
+root         432  0.0  0.0      0     0 ?        S    09:00   0:02 [jbd2/nvme0n1p5-8]
+root         433  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-ext4-rsv-conversion]
+root         449  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/2:1H-kblockd]
+root         487  0.0  0.0  50948 20068 ?        S<s  09:00   0:00 /usr/lib/systemd/systemd-journald
+root         530  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/10:1H-kblockd]
+root         532  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/12:1H-kblockd]
+root         534  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/15:1H-kblockd]
+systemd+     535  0.0  0.0  16808  7428 ?        Ss   09:00   0:15 /usr/lib/systemd/systemd-oomd
+systemd+     538  0.0  0.0  22692 14740 ?        Ss   09:00   0:00 /usr/lib/systemd/systemd-resolved
+root         539  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/13:1H-kblockd]
+root         541  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/14:1H-kblockd]
+root         543  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/8:1H-kblockd]
+root         545  0.0  0.0  41984 15132 ?        Ss   09:00   0:00 /usr/lib/systemd/systemd-udevd
+root         548  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/5:1H-kblockd]
+root         551  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/11:1H-kblockd]
+root         554  0.0  0.0      0     0 ?        S    09:00   0:00 [psimon]
+root         649  0.0  0.0      0     0 ?        S    09:00   0:00 [irq/16-processor_thermal_device_pci]
+root         653  0.0  0.0      0     0 ?        S    09:00   0:00 [irq/150-mei_me]
+root         654  0.0  0.0      0     0 ?        I    09:00   0:01 [kworker/11:2-mm_percpu_wq]
+root         867  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/R-cfg80211]
+root         896  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/u65:2-hci0]
+root         946  0.0  0.0      0     0 ?        S    09:00   0:11 [napi/phy0-0]
+root         947  0.0  0.0      0     0 ?        S    09:00   0:01 [napi/phy0-0]
+root         948  0.0  0.0      0     0 ?        S    09:00   0:12 [napi/phy0-0]
+root         949  0.0  0.0      0     0 ?        S    09:00   0:00 [nv_queue]
+root         950  0.0  0.0      0     0 ?        S    09:00   0:00 [nv_queue]
+root         951  0.0  0.0      0     0 ?        S    09:00   0:00 [nv_open_q]
+root         953  0.0  0.0      0     0 ?        S    09:00   0:00 [nvidia-modeset/kthread_q]
+root         954  0.0  0.0      0     0 ?        S    09:00   0:00 [nvidia-modeset/deferred_close_kthread_q]
+root        1020  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/1:1H-kblockd]
+root        1031  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/4:1H-kblockd]
+root        1048  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/7:1H-kblockd]
+root        1051  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/3:1H-kblockd]
+root        1052  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/0:1H-kblockd]
+root        1054  0.0  0.0      0     0 ?        I<   09:00   0:00 [kworker/9:1H-kblockd]
+root        1055  0.0  0.0      0     0 ?        S    09:00   0:00 [UVM global queue]
+root        1056  0.0  0.0      0     0 ?        S    09:00   0:00 [UVM deferred release queue]
+root        1057  0.0  0.0      0     0 ?        S    09:00   0:00 [UVM Tools Event Queue]
+root        1135  0.0  0.0      0     0 ?        S    09:00   0:05 [mt76-tx phy0]
+avahi       1365  0.0  0.0   6756  4864 ?        Ss   09:00   0:01 avahi-daemon: running [Kevork.local]
+root        1366  0.0  0.0  12996  7152 ?        Ss   09:00   0:00 /usr/libexec/bluetooth/bluetoothd
+root        1367  0.0  0.0   2888  1992 ?        Ss   09:00   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+message+    1368  0.0  0.0  12160  8932 ?        Ss   09:00   0:07 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root        1375  0.0  0.0  46876 29940 ?        Ss   09:00   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+polkitd     1381  0.0  0.0 387624 13224 ?        Ssl  09:00   0:02 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+root        1392  0.0  0.1 2816408 46764 ?       Ssl  09:00   0:04 /snap/snapd/current/usr/lib/snapd/snapd
+root        1396  0.0  0.0 309368  8184 ?        Ssl  09:00   0:01 /usr/libexec/accounts-daemon
+root        1398  0.0  0.0   7064  3288 ?        Ss   09:00   0:00 /usr/sbin/cron -f -P
+root        1400  0.0  0.0 308008  7084 ?        Ssl  09:00   0:00 /usr/libexec/switcheroo-control
+root        1403  0.0  0.0  18876  9784 ?        Ss   09:00   0:00 /usr/lib/systemd/systemd-logind
+root        1404  0.0  0.0 386696  9880 ?        Ssl  09:00   0:08 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root        1405  0.0  0.0 544260 16236 ?        Ssl  09:00   0:01 /usr/libexec/udisks2/udisksd
+avahi       1447  0.0  0.0   6564  1644 ?        S    09:00   0:00 avahi-daemon: chroot helper
+_chrony     1481  0.0  0.0  20424  6156 ?        S    09:00   0:00 /usr/sbin/chronyd -n -F 1
+root        1501  0.0  0.0 337304 22232 ?        Ssl  09:00   0:07 /usr/sbin/NetworkManager --no-daemon
+root        1502  0.0  0.0  19028 12884 ?        Ss   09:00   0:01 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+syslog      1503  0.0  0.0 220604  5988 ?        Ssl  09:00   0:00 /usr/sbin/rsyslogd -n -iNONE
+_chrony     1506  0.0  0.0  12120  3356 ?        S    09:00   0:00 /usr/sbin/chronyd -n -F 1
+root        1568  0.0  0.0 391608 13716 ?        Ssl  09:00   0:00 /usr/sbin/ModemManager
+root        1605  0.0  0.0 319928 12636 ?        Ssl  09:00   0:05 /usr/libexec/upowerd
+root        1638  0.0  0.1 126096 32660 ?        Ssl  09:00   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1703  0.0  0.0 384428  9772 ?        Ssl  09:00   0:00 /usr/sbin/gdm3
+root        1821  0.0  0.0 385944 11404 ?        Sl   09:00   0:00 gdm-session-worker [pam/gdm-autologin]
+kevork      1829  0.0  0.0  24012 15104 ?        Ss   09:00   0:01 /usr/lib/systemd/systemd --user
+kevork      1832  0.0  0.0  23464  4212 ?        S    09:00   0:00 (sd-pam)
+kevork      1852  0.0  0.0  10300  7144 ?        Ss   09:00   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+kevork      1853  0.0  0.0 114328 16336 ?        S<sl 09:00   0:01 /usr/bin/pipewire
+kevork      1856  0.0  0.0 303924  6332 ?        Ssl  09:00   0:00 /snap/snapd-desktop-integration/391/usr/bin/user-session-helper /snap/snapd-desktop-integration/391/usr/bin/snapd-desktop-integration
+kevork      1857  0.0  0.0 183516 11028 ?        SLsl 09:00   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+kevork      1873  0.0  0.0   7560  4052 ?        Ss   09:00   0:00 /usr/bin/mpris-proxy
+kevork      1874  0.0  0.0 488472 23024 ?        S<sl 09:00   0:01 /usr/bin/wireplumber
+rtkit       1875  0.0  0.0  21872  3632 ?        SNsl 09:00   0:01 /usr/libexec/rtkit-daemon
+kevork      1876  0.0  0.0  84816  5752 ?        Ssl  09:00   0:00 /usr/bin/pipewire -c filter-chain.conf
+kevork      1878  0.0  0.0 168628  6916 tty2     Ssl+ 09:00   0:00 /usr/libexec/gdm-wayland-session /usr/bin/gnome-session --session=ubuntu
+kevork      1879  0.0  0.0 190116 25040 ?        S<Lsl 09:00   0:01 /usr/bin/pipewire-pulse
+kevork      1883  0.0  0.0 175212  9228 tty2     Sl+  09:00   0:00 /usr/libexec/gnome-session-init-worker ubuntu
+kevork      2054  0.0  0.0 540780  9504 ?        Ssl  09:00   0:00 /usr/libexec/xdg-document-portal
+kevork      2062  0.0  0.0 307772  7124 ?        Ssl  09:00   0:00 /usr/libexec/xdg-permission-store
+root        2075  0.0  0.0   2792  2264 ?        Ss   09:00   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+kevork      2083  0.0  0.0  97560  7840 ?        Ssl  09:00   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+kevork      2086  0.0  0.0  87212  5736 ?        Ssl  09:00   0:00 /usr/libexec/gnome-session-ctl --monitor
+kevork      2087  0.0  0.0  10484  6728 ?        Ss   09:00   0:00 /usr/bin/ssh-agent -D
+kevork      2097  0.0  0.0 313520  9272 ?        Ssl  09:00   0:00 /usr/libexec/gvfsd
+kevork      2105  0.0  0.0 324864  7908 ?        Sl   09:00   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+kevork      2108  0.0  0.0 613992 11888 ?        Ssl  09:00   0:00 /usr/libexec/gnome-session-service --session=ubuntu
+kevork      2120 20.6  2.3 12052912 764084 ?     Ssl  09:00 111:01 /usr/bin/gnome-shell --mode=ubuntu
+root        2138  0.0  0.0      0     0 ?        S<   09:00   0:00 [krfcommd]
+kevork      2252  0.0  0.0 381068  7956 ?        Ssl  09:00   0:00 /usr/libexec/at-spi-bus-launcher
+kevork      2259  0.0  0.0   8612  5252 ?        S    09:00   0:01 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+kevork      2263  0.0  0.0 168688  7680 ?        Sl   09:00   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+colord      2264  0.0  0.0 317328 16304 ?        Ssl  09:00   0:00 /usr/libexec/colord
+kevork      2334  0.0  0.0 658752 19484 ?        Sl   09:00   0:00 /usr/libexec/gnome-shell-calendar-server
+kevork      2342  0.0  0.1 1223016 46988 ?       Ssl  09:00   0:00 /usr/libexec/evolution-source-registry
+kevork      2348  0.0  0.1 2734892 32376 ?       Sl   09:00   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+kevork      2370  0.0  0.0 385756 11856 ?        Ssl  09:00   0:03 /usr/bin/ibus-daemon --panel disable
+kevork      2371  0.0  0.0 254244 10956 ?        Ssl  09:00   0:00 /usr/libexec/gsd-a11y-settings
+kevork      2372  0.0  0.0 391476 11488 ?        Ssl  09:00   0:00 /usr/libexec/gsd-color
+kevork      2373  0.0  0.0 260612 13000 ?        Ssl  09:00   0:00 /usr/libexec/gsd-datetime
+kevork      2376  0.0  0.0 391220 11368 ?        Ssl  09:00   0:01 /usr/libexec/gsd-housekeeping
+kevork      2386  0.0  0.0 383576  8496 ?        Ssl  09:00   0:00 /usr/libexec/gsd-keyboard
+kevork      2387  0.0  0.0 757068 15256 ?        Ssl  09:00   0:00 /usr/libexec/gsd-media-keys
+kevork      2389  0.0  0.0 467648 12272 ?        Ssl  09:00   0:00 /usr/libexec/gsd-power
+kevork      2391  0.0  0.0 328084 14856 ?        Ssl  09:00   0:00 /usr/libexec/gsd-print-notifications
+kevork      2394  0.0  0.0 457424  8552 ?        Ssl  09:00   0:00 /usr/libexec/gsd-rfkill
+kevork      2396  0.0  0.0 170332  7856 ?        Ssl  09:00   0:00 /usr/libexec/gsd-screensaver-proxy
+kevork      2406  0.0  0.0 467840 13504 ?        Ssl  09:00   0:02 /usr/libexec/gsd-sharing
+kevork      2415  0.0  0.0 386152 10108 ?        Ssl  09:00   0:00 /usr/libexec/gsd-smartcard
+kevork      2421  0.0  0.0 255392 11060 ?        Ssl  09:00   0:00 /usr/libexec/gsd-sound
+kevork      2423  0.0  0.0 312176  9740 ?        Sl   09:00   0:00 /usr/libexec/gsd-disk-utility-notify
+kevork      2426  0.0  0.0 538192 10472 ?        Ssl  09:00   0:00 /usr/libexec/gsd-usb-protection
+kevork      2429  0.0  0.0 390860 11180 ?        Ssl  09:00   0:00 /usr/libexec/gsd-wwan
+kevork      2438  0.0  0.1 644612 36024 ?        Sl   09:00   0:01 /usr/bin/update-notifier
+kevork      2442  0.0  0.2 989604 68708 ?        Sl   09:00   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+geoclue     2524  0.0  0.0 1938420 28120 ?       Ssl  09:00   0:04 /usr/libexec/geoclue
+kevork      2557  0.0  0.0 169404  7896 ?        Sl   09:00   0:00 /usr/libexec/ibus-memconf
+kevork      2559  0.0  0.0 473440 12812 ?        Sl   09:00   0:00 /usr/libexec/gsd-printer
+kevork      2560  0.0  0.1 467040 32092 ?        Sl   09:00   0:00 /usr/libexec/goa-daemon
+kevork      2563  0.0  0.1 2734888 32488 ?       Sl   09:00   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+kevork      2566  0.0  0.1 500916 37532 ?        Sl   09:00   0:02 /usr/libexec/ibus-extension-gtk3
+kevork      2573  0.0  0.0 308724  8196 ?        Sl   09:00   0:00 /usr/libexec/ibus-portal
+kevork      2623  0.0  0.0 803332 29572 ?        SNsl 09:00   0:00 /usr/libexec/localsearch-3
+kevork      2628  0.0  0.0 629332 20940 ?        Ssl  09:00   0:01 /usr/libexec/xdg-desktop-portal
+kevork      2630  0.0  0.0 893780 26988 ?        Ssl  09:00   0:00 /usr/libexec/evolution-calendar-factory
+kevork      2648  0.0  0.0 388168 10512 ?        Sl   09:00   0:00 /usr/libexec/goa-identity-service
+kevork      2662  0.0  0.1 688420 45556 ?        Ssl  09:00   0:00 /usr/libexec/xdg-desktop-portal-gnome
+kevork      2692  0.0  0.0 826444 31440 ?        Ssl  09:00   0:00 /usr/libexec/evolution-addressbook-factory
+kevork      2697  0.0  0.0 461228 12576 ?        Ssl  09:00   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+kevork      2707  0.0  0.0 169532  8292 ?        Sl   09:00   0:01 /usr/libexec/ibus-engine-simple
+kevork      2713  0.0  0.0 309044  7988 ?        Ssl  09:00   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+kevork      2724  0.0  0.0 308056  7328 ?        Ssl  09:00   0:00 /usr/libexec/gvfs-goa-volume-monitor
+kevork      2729  0.0  0.0 308076  7636 ?        Ssl  09:00   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+kevork      2734  0.0  0.0 390108  9728 ?        Ssl  09:00   0:02 /usr/libexec/gvfs-afc-volume-monitor
+kevork      2873  0.0  0.0 169140  7596 ?        Ssl  09:00   0:00 /usr/libexec/gvfsd-metadata
+kevork      3017  0.0  0.0 165344  6556 ?        Ssl  09:00   0:00 /usr/libexec/dconf-service
+root        3036  0.0  0.0 309672  8216 ?        Ssl  09:00   0:00 /usr/libexec/power-profiles-daemon
+kevork      3143  0.0  0.0 608704 10348 ?        Sl   09:00   0:00 /usr/libexec/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+kevork      3279  0.0  0.0 493396 29800 ?        Ssl  09:00   0:00 /usr/libexec/xdg-desktop-portal-gtk
+kevork      3287  0.0  0.1 439988 35820 ?        Sl   09:00   0:00 /snap/snapd-desktop-integration/391/usr/bin/snapd-desktop-integration
+kevork      3499  2.0  3.0 12839196 960040 ?     Sl   09:02  11:01 /snap/firefox/8763/usr/lib/firefox/firefox
+kevork      3592  0.0  0.0 149412  3068 ?        Sl   09:02   0:00 /snap/firefox/8763/usr/lib/firefox/crashhelper 3499 9 /tmp/ 11 20260814105733
+kevork      3675  0.0  0.4 418828 158588 ?       S    09:02   0:23 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.GTOEX3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients -enable-ei-portal
+kevork      3681  0.0  0.1 377216 50580 ?        Sl   09:02   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -prefsHandle 0:35478 -prefMapHandle 1:294076 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {33b80430-741b-431a-89ce-66e9055addb8} -parentPid 3499 -crashHelperPid 3592 -crashHelper 5 -crashReporter 6 -appDir /snap/firefox/8763/usr/lib/firefox/browser 1 socket
+kevork      3692  0.0  0.0 251836 13884 ?        Ssl  09:02   0:00 /usr/libexec/gsd-xsettings
+kevork      3699  0.0  0.4 3326412 145368 ?      Sl   09:02   0:06 /usr/libexec/mutter-x11-frames
+kevork      3750  0.0  0.2 373892 67744 ?        Sl   09:02   0:00 /usr/libexec/ibus-x11
+kevork      3809  0.0  0.1 462584 34440 ?        S    09:02   0:03 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {b84d9f37-1d6a-4263-9023-eb0962f1b318} -parentPid 3499 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 2 forkserver
+kevork      3825  0.0  0.5 2719756 179784 ?      Sl   09:02   0:14 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:36087 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {3d03786d-0de8-4778-a2b4-cc3429a3cb89} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 3 tab
+kevork      3833  0.0  0.2 706668 84952 ?        Sl   09:02   0:09 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -prefsHandle 0:36087 -prefMapHandle 1:294076 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {bcfaff90-3773-43f1-be9e-fa931d0a5221} -parentPid 3499 -crashHelperPid 3592 -crashHelper 5 -crashReporter 6 -appDir /snap/firefox/8763/usr/lib/firefox/browser 4 rdd
+kevork      3881  0.0  0.1 2223736 35656 ?       Sl   09:02   0:02 /snap/snapd/current/usr/bin/snap userd
+kevork      4054  0.0  0.3 2656148 120480 ?      Sl   09:02   0:01 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:36264 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {fde502b4-c2cc-4a06-addc-976a6453c4b9} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 5 tab
+kevork      4371  0.0  0.1 639508 57324 ?        Sl   09:02   0:02 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -sandboxingKind 0 -prefsHandle 0:51865 -prefMapHandle 1:294076 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {942f3b66-eef6-446c-95a0-aa5c3ab99569} -parentPid 3499 -crashHelperPid 3592 -crashHelper 5 -crashReporter 6 -appDir /snap/firefox/8763/usr/lib/firefox/browser 6 utility
+kevork      4514  0.5  1.5 3146992 482208 ?      Sl   09:02   3:02 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48668 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {d175f11c-b8a3-40f9-94e5-db6bd7d9404f} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 8 tab
+kevork      4526  0.1  0.3 2617228 97824 ?       Sl   09:02   0:32 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48668 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {9b92689e-2b36-47ed-b32b-41cde8c88d64} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 9 tab
+kevork      4927  0.1  0.9 2867436 289428 ?      Sl   09:03   1:03 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48869 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {03da651f-41fa-4843-87a5-3fd421b881e6} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 16 tab
+kevork      5277  0.0  1.3 7028152 413968 ?      Sl   09:03   0:22 /usr/bin/ptyxis --gapplication-service
+kevork      5286  0.0  0.0 239948  7824 ?        Ssl  09:03   0:03 /usr/libexec/ptyxis-agent --socket-fd=3 --rlimit-nofile=1024
+kevork      5376  0.0  0.0   9128  6076 pts/0    Ss+  09:03   0:00 /usr/bin/bash
+root        8638  0.0  0.1 501576 50896 ?        Ssl  09:24   0:02 /usr/libexec/fwupd/fwupd
+root        9831  0.0  0.0  29060 12856 ?        Ss   09:38   0:00 /usr/sbin/cupsd -l
+cups-br+    9835  0.0  0.0 207560 22508 ?        Ssl  09:38   0:00 /usr/sbin/cups-browsed
+kevork     20593  0.0  0.0 214720  8292 ?        Ssl  12:00   0:00 /snap/firmware-updater/226/bin/firmware-notifier
+root       23125  0.0  0.0      0     0 ?        I    12:33   0:00 [kworker/1:2-mm_percpu_wq]
+root       26296  0.0  0.0      0     0 ?        I    13:14   0:00 [kworker/3:0-mm_percpu_wq]
+root       31248  0.0  0.0      0     0 ?        I    14:18   0:00 [kworker/5:0-mm_percpu_wq]
+root       32954  0.0  0.0      0     0 ?        I    14:40   0:00 [kworker/7:2-mm_percpu_wq]
+root       33619  0.0  0.0      0     0 ?        I    14:49   0:00 [kworker/0:0-events]
+root       36041  0.0  0.0      0     0 ?        I    15:20   0:00 [kworker/3:2]
+root       37087  0.0  0.0      0     0 ?        I    15:34   0:00 [kworker/1:1]
+root       37285  0.0  0.0      0     0 ?        I    15:37   0:00 [kworker/13:1-events]
+root       38812  0.0  0.0      0     0 ?        I    15:57   0:00 [kworker/2:0-events]
+root       39058  0.0  0.0      0     0 ?        I    16:00   0:00 [kworker/11:0]
+root       41446  0.0  0.0      0     0 ?        I    16:30   0:00 [kworker/8:1-mm_percpu_wq]
+root       41854  0.0  0.0      0     0 ?        I    16:36   0:00 [kworker/9:2]
+root       42016  0.0  0.0      0     0 ?        I    16:39   0:00 [kworker/0:2-events]
+root       42428  0.0  0.0      0     0 ?        I    16:44   0:00 [kworker/15:2-mm_percpu_wq]
+root       43690  0.0  0.0      0     0 ?        I    17:00   0:00 [kworker/6:2-mm_percpu_wq]
+kevork     43779  0.1  0.4 2686192 136072 ?      Sl   17:01   0:04 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49084 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {186a52d4-83bc-4c36-99a4-4524fdcb484c} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 912 tab
+kevork     44171  0.6  0.9 2883444 306908 ?      Sl   17:06   0:21 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49084 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {a1ea7036-0377-4e8e-8898-6ef675378534} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 922 tab
+kevork     44212  0.9  0.9 2872572 297744 ?      Sl   17:06   0:28 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49084 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {9fb7c6c1-62e5-42ff-b3b5-b653de1a928e} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 923 tab
+root       44531  0.7  0.0      0     0 ?        I    17:07   0:22 [kworker/u64:3-events_unbound]
+kevork     44647  0.4  1.0 7257296 318952 ?      Sl   17:08   0:14 /usr/bin/nautilus --gapplication-service
+kevork     44756  0.0  0.0 387492 10016 ?        Sl   17:08   0:00 /usr/libexec/gvfsd-recent --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+kevork     44757  0.0  0.0 387732 10140 ?        Sl   17:08   0:00 /usr/libexec/gvfsd-network --spawner :1.20 /org/gtk/gvfs/exec_spaw/2
+kevork     44770  0.0  0.0 388876 10340 ?        Sl   17:08   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.20 /org/gtk/gvfs/exec_spaw/3
+kevork     44776  0.0  0.0 387160  9824 ?        Sl   17:08   0:00 /usr/libexec/gvfsd-wsdd --spawner :1.20 /org/gtk/gvfs/exec_spaw/4
+kevork     44781  0.0  0.1  44876 33600 ?        S    17:08   0:00 python3 /usr/bin/wsdd --no-host --discovery --listen /run/user/1000/gvfsd/wsdd
+uuidd      44782  0.0  0.0   8108  3364 ?        Ss   17:08   0:00 /usr/sbin/uuidd --socket-activation --cont-clock
+kevork     45806  1.6  0.7 1518603308 232364 ?   SLsl 17:10   0:48 /snap/code/270/usr/share/code/code --no-sandbox --force-user-env --ozone-platform=x11
+kevork     45808  0.0  0.1 55082388 55728 ?      S    17:10   0:00 /snap/code/270/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+kevork     45809  0.0  0.1 55082388 56100 ?      S    17:10   0:00 /snap/code/270/usr/share/code/code --type=zygote --no-sandbox
+kevork     45836  0.0  0.2 54919840 89692 ?      Sl   17:10   0:02 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190708989122997041
+kevork     45918  6.6  1.3 1522710428 429656 ?   Sl   17:10   3:15 /snap/code/270/usr/share/code/code --type=renderer --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/snap/code/270/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --no-sandbox --max-active-webgl-contexts=32 --ozone-platform=x11 --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1792303212795053 --launch-time-ticks=29399484742 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190708990060038890 --vscode-window-config=vscode:326ce8c7-ec47-4c02-95c8-69f2e46a9198
+kevork     46023  4.1  0.4 54926008 142432 ?     Sl   17:10   2:03 /snap/code/270/usr/share/code/code --type=gpu-process --disable-gpu-sandbox --no-sandbox --ozone-platform=x11 --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --gpu-preferences=WAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=disabled --shared-files --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190708992871164437
+kevork     46037  0.0  0.5 1518401116 166652 ?   Sl   17:10   0:01 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190708993808206286
+kevork     46058  0.5  0.4 1518379820 136936 ?   Sl   17:10   0:15 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190708994745248135
+root       46228  0.4  0.0      0     0 ?        I    17:10   0:14 [kworker/u64:5-events_unbound]
+kevork     46272  0.0  0.0 242012  6816 ?        Sl   17:10   0:00 dconf watch /system/proxy/
+kevork     46292  0.0  0.0 319620 11460 ?        Sl   17:10   0:00 /usr/libexec/gvfsd-http --spawner :1.20 /org/gtk/gvfs/exec_spaw/5
+root       46476  0.0  0.0      0     0 ?        I    17:10   0:00 [kworker/14:0-mm_percpu_wq]
+kevork     46796  0.3  0.4 1518397100 130856 ?   Sl   17:11   0:11 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190709000367499229
+kevork     47013  0.0  0.4 1518396796 134148 ?   Sl   17:12   0:02 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190709005052708474
+kevork     47032  0.5  0.7 1518397844 245176 ?   Sl   17:12   0:15 /snap/code/270/usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --no-sandbox --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --enable-crash-reporter=d0bc0b9b-576d-4c94-b78b-9fe3ebbed109,no_channel --user-data-dir=/home/kevork/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --cors-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --fetch-schemes=vscode-webview,vscode-file,vscode-remote-resource,vscode-managed-remote-resource --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,12653402024223595759,1610683772378793689,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync,GlobalShortcutsPortal,GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker --disable-features=CalculateNativeWinOcclusion,DropInputEventsWhilePaintHolding,HideCursorWhileTyping,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,9484202598445316375,10716859625710134928,4 --trace-process-track-uuid=3190709005989750323
+kevork     47134  1.0  1.8 1526175352 597472 ?   Sl   17:13   0:28 /snap/code/270/usr/share/code/code /home/kevork/.vscode/extensions/ms-python.vscode-pylance-2026.4.101/dist/server.bundle.js --cancellationReceive=file:7865794226db682e35b75b1fe31c0cabf706c8eb01 --node-ipc --clientProcessId=47032
+kevork     47574  0.0  0.0   3768  2268 ?        S    17:15   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --seccomp 128 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 127
+kevork     47576  0.0  0.0   3864  1532 ?        S    17:15   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --seccomp 128 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 127
+kevork     47577  0.0  0.0 145336  6492 ?        Sl   17:15   0:00 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 127
+kevork     47667  0.0  0.0  40360  6152 ?        Sl   17:16   0:01 /home/kevork/.vscode/extensions/ms-python.vscode-python-envs-1.40.0-linux-x64/python-env-tools/bin/pet server
+kevork     47785  0.0  0.0   8912  5876 pts/1    Ss+  17:16   0:00 /usr/bin/bash --init-file /snap/code/270/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+kevork     47792  0.0  0.2 221072 65240 ?        Sl   17:16   0:01 /usr/bin/python3 /home/kevork/.vscode/extensions/ms-python.black-formatter-2026.6.0/bundled/tool/lsp_server.py
+kevork     47931  0.0  0.0   9104  6128 pts/2    Ss   17:16   0:00 /usr/bin/bash --init-file /snap/code/270/usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+kevork     48223  2.7  0.7 11204988 238764 ?     Sl   17:19   1:05 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49084 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {65efef80-d2eb-4462-8c8c-76272c88151f} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 933 tab
+root       49268  0.7  0.0      0     0 ?        I    17:23   0:17 [kworker/u64:0-ext4-rsv-conversion]
+root       49382  0.0  0.0      0     0 ?        I    17:24   0:00 [kworker/7:1-events]
+kevork     49409  0.1  0.1 474328 40524 ?        Sl   17:24   0:04 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -prefsHandle 0:52424 -prefMapHandle 1:294076 -pluginNativeEvent -pluginPath /snap/firefox/8763/usr/lib/firefox/gmp-clearkey/0.1 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {7231c8c0-e074-4bf6-a0b5-58d0cc48fb73} -parentPid 3499 -crashHelperPid 3592 -crashHelper 5 -crashReporter 6 937 gmplugin
+kevork     49649  1.8  0.9 2893680 305836 ?      Sl   17:26   0:35 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49218 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {35f88eb0-b59b-45f8-ab67-34c5a925173d} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 939 tab
+root       49721  0.0  0.0      0     0 ?        I    17:26   0:00 [kworker/12:1-mm_percpu_wq]
+root       50331  0.0  0.0      0     0 ?        I    17:30   0:00 [kworker/4:0-mm_percpu_wq]
+root       50487  0.0  0.0      0     0 ?        I    17:32   0:00 [kworker/8:0-events]
+root       50698  0.0  0.0      0     0 ?        S    17:32   0:00 [psimon]
+root       51410  0.0  0.0      0     0 ?        I    17:36   0:00 [kworker/2:2-mm_percpu_wq]
+root       51675  0.0  0.0      0     0 ?        I    17:38   0:00 [kworker/10:1]
+root       51815  0.0  0.0      0     0 ?        I    17:40   0:00 [kworker/5:1-events]
+root       52120  0.0  0.0      0     0 ?        I    17:44   0:00 [kworker/15:1]
+root       52405  0.0  0.0      0     0 ?        I    17:44   0:00 [kworker/6:1-inet_frag_wq]
+root       52453  0.0  0.0      0     0 ?        I    17:45   0:00 [kworker/14:2-events]
+kevork     52521  0.0  0.2 3210408 81792 ?       Sl   17:45   0:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+root       52568  0.0  0.0      0     0 ?        I    17:45   0:00 [kworker/12:0-mm_percpu_wq]
+root       53002  0.0  0.0      0     0 ?        I    17:50   0:00 [kworker/10:2-mm_percpu_wq]
+root       53003  0.0  0.0      0     0 ?        I    17:50   0:00 [kworker/4:2]
+kevork     53096  0.9  0.8 2828260 264328 ?      Sl   17:51   0:04 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49630 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {af9a035c-f41a-4e5e-9078-8db86434c8b4} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 971 tab
+root       53242  0.0  0.0      0     0 ?        I    17:52   0:00 [kworker/13:2]
+root       53382  0.8  0.0      0     0 ?        I    17:53   0:03 [kworker/u64:1-events_power_efficient]
+root       53523  0.8  0.0      0     0 ?        I    17:55   0:02 [kworker/u64:2-events_power_efficient]
+root       53599  0.0  0.0      0     0 ?        I    17:56   0:00 [kworker/7:0]
+kevork     53616  0.0  0.2 2618748 89444 ?       Sl   17:56   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49630 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {00e70302-6211-43f1-9c52-e5390b8579c4} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 975 tab
+kevork     53655  0.0  0.2 2609160 76920 ?       Sl   17:56   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49630 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {a1d13ee8-be00-449a-a0d6-1673a3c7a5da} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 976 tab
+kevork     53688  0.0  0.2 2609160 77592 ?       Sl   17:56   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49630 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {7263b83d-9efd-4b6f-be8a-d458b52723d3} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 977 tab
+root       53941  0.0  0.0      0     0 ?        I    17:58   0:00 [kworker/12:2-events]
+kevork     54083  0.5  0.2 2609160 76476 ?       Sl   17:59   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:49630 -prefMapHandle 1:294076 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {cf6e6987-02ce-4836-830d-b23e76ef34a1} -parentPid 3499 -crashHelperPid 3592 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -appomni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/8763/usr/lib/firefox/browser 978 tab
+kevork     54130 33.3  0.0  10304  5088 pts/2    R+   17:59   0:00 ps aux
